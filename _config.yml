@@ -24,7 +24,9 @@ youtube_username: globalmtb
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Atanu and I'm a Lead Data Scientist currently working at Ayata. I started my professional career as an Executive Data Scientist in Karvy Analytics Limited. I have experience in applying and productionizing Data driven ML/DL models in multiple disciplines and verticales, like Telecom, Insurance, Oil and Gasand Energy.   
+  Hi, my name's Atanu and I'm a Lead Data Scientist currently working at Ayata. I started my professional career as an Executive Data Scientist in Karvy Analytics Limited. I have experience in applying and productionizing Data driven ML/DL models in multiple disciplines and verticales, like Telecom, Insurance, Oil and Gas, and Energy.
+
+  **Technical Skills**
 
   I am most skilled in: <mark>Data Engineering</mark>, Building End-to-End Enterprise standard ML solution using <mark>Python</mark>, <mark>Airflow</mark>, <mark>Machine Learning</mark> and <mark>Deep Learning</mark> for various problem categories.
 
